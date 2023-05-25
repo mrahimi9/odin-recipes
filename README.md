@@ -1,1 +1,3 @@
 # odin-recipes
+This is the Recipes Project within the Foundations course found here https://www.theodinproject.com/lessons/foundations-recipes. The new repo, odin-recipes, was created for this project. The initial structure of the index.html is a simple heading with an unordered list beneath it on the page. There are currently three recipes. All recipe webpages are in the /recipes directory. Each recipe has an image in the /img directory.
+Each recipe webpage structure is the heading, image, description, ingredients, and steps. The ingredients are in an unordered list. The steps are in an ordered list.
