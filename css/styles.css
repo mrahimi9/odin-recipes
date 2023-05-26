@@ -1,0 +1,17 @@
+.recipe-background {
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: max-content;
+    padding: 25px;
+}
+
+.page-header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.bullet-points {
+    font-family: Arial, Helvetica, sans-serif;
+}
